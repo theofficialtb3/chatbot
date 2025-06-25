@@ -1,0 +1,2 @@
+this code does not have any working apis to search the web
+this code is a chatbot which provides the user with set of instructions for them to follow
